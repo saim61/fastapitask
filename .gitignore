@@ -1,0 +1,15 @@
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+
+__pycache__/
+
+*.wt
+*.bson
+WiredTiger
+WiredTiger.*
